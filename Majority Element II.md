@@ -10,12 +10,12 @@ We utilize Moore's Voting Algorithm similar to the majority problem 1. Here's th
 2. **Counting Process**: We maintain a count and an element variable (`ele`). If the next element is the same as the current `ele`, we increase the count; otherwise, we decrement it. If the count reaches 0, we assign the current element to `ele` and continue with the process.
 3. **Verification**: Finally, we verify if the element saved in `ele` is a majority by checking if its count is more than `n//2`. If yes, then it's the majority element.
 
-[Detailed explanation and code implementation for Majority Element 1](link-to-majority-element-1-file)
+[Detailed explanation and code implementation for Majority Element 1](https://leetcode.com/problems/majority-element/submissions/1193480677)
 
 ### Majority Element 2:
 For majority element 2, we need to check whether an element appears more than `floor(n/3)` times. The process is similar to majority element 1, but this time we use two variables, `ele1` and `ele2`, and repeat the same process for both elements.
 
-[Detailed explanation and code implementation for Majority Element 2](link-to-majority-element-2-file)
+[Detailed explanation and code implementation for Majority Element 2](https://leetcode.com/problems/majority-element-ii/submissions/1193498682)
 
 ## Algorithm Implementation
 
