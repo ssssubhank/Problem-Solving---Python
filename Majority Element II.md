@@ -80,12 +80,3 @@ solution = Solution()
 result = solution.majorityElement([3, 2, 3])
 print(result)  # Output: [3]
 ```
-
-## Contributions
-
-Contributions to this repository are welcome. If you have any suggestions, improvements, or find any issues, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](link-to-license-file). You are free to use, modify, and distribute this code for any purpose.
-
