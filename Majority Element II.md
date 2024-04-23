@@ -1,5 +1,9 @@
 # Majority Element II
 
+![Uploading Screenshot 2024-04-23 at 11.38.35 AM.png…]()
+
+
+
 This repository provides an intuitive explanation and implementation of the Majority Element Algorithm using Python, based on Moore's Voting Algorithm.
 
 ## Intuition
